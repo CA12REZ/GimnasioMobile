@@ -1,0 +1,38 @@
+name: gym_bulls_training
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.0.0
+  flutter_dotenv: ^5.0.2
+  url_launcher: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_native_splash: ^2.2.20 # Aquí se agrega como dev_dependency
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/.env
+    - assets/imagenes/
+
+flutter_native_splash: # Configuración del Splash Screen
+  color: "#ffffff" # Color de fondo del splash screen
+  image: assets/imagenes/logo.png # Ruta de tu logo
+  android: true
+  ios: true
+  web: false
+  android_gravity: center
+  ios_content_mode: center
+  branding: assets/imagenes/logo.jpg # Imagen adicional opcional
