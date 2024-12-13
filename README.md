@@ -148,7 +148,8 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
 ### Diseño Figma
 
 <p align="center">
-  <img src="Img/DF1.png?raw=true" alt="Diseño">
-  <img src="Img/DF2.png?raw=true" alt="Diseño">
-  <img src="Img/DF3.png?raw=true" alt="Diseño">
+  <img src="Img/login.jpg" alt="Diseño">
+  <img src="Img/InsPro.jpg" alt="Diseño">
+  <img src="Img/Menu.jpg" alt="Diseño">
+  <img src="Img/registro.jpg" alt="Diseño">
 </p>
