@@ -131,39 +131,24 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
 19. Los miembros no pueden tener un dashboard de seguimiento hasta que estén inscritos en un programa saludable.
 20. No se pueden realizar operaciones CRUD si no son instructores verificados.
 
-## MOCKUPS
+  ### Sketches
 
-## Inicio de Sesión:
 <p align="center">
-<img src="Img/MKPS1.png?raw=true" alt="Diseño"> 
+  <img src="Img/SK1.png?raw=true" alt="Diseño">
+  <img src="Img/SK2.png?raw=true" alt="Diseño">
+  <img src="Img/SK3.png?raw=true" alt="Diseño">
 </p>
 
-## Rutinas (Create):
+### Wireframes
 <p align="center">
-<img src="Img/MKPS2.png?raw=true" alt="Diseño">
+  <img src="Img/wireframe.png?raw=true" alt="Diseño">
+  
 </p>
 
-## Rutinas (Read):
-<p align="center">
-<img src="Img/MKPS3.png?raw=true" alt="Diseño">
-</p>
+### Diseño Figma
 
-## Rutinas (Update):
 <p align="center">
-<img src="Img/MKPS4.png?raw=true" alt="Diseño">
-</p>
-
-## Rutinas (Delete):
-<p align="center">
-<img src="Img/MKPS5.png?raw=true" alt="Diseño">
-</p>
-
-## Programa Saludable (Tablas):
-<p align="center">
-<img src="Img/MKPS6.png?raw=true" alt="Diseño">
-</p>
-
-## Dashboard de seguimiento:
-<p align="center">
-<img src="Img/MKPS7.png?raw=true" alt="Diseño">
+  <img src="Img/DF1.png?raw=true" alt="Diseño">
+  <img src="Img/DF2.png?raw=true" alt="Diseño">
+  <img src="Img/DF3.png?raw=true" alt="Diseño">
 </p>
