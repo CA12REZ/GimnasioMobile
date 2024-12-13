@@ -154,3 +154,13 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
   <img src="Img/registro.jpg" alt="Diseño">
 </p>
 
+### Resultados 
+<p align="center">
+  <img src="/Img/r1.jpeg" alt="Diseño">
+  <img src="/Img/r2.jpeg" alt="Diseño">
+  <img src="/Img/r3.jpeg" alt="Diseño">
+  <img src="/Img/r4.jpeg" alt="Diseño">
+  <img src="/Img/r5.jpeg" alt="Diseño">
+  <img src="/Img/r6.jpeg" alt="Diseño">
+  <img src="/Img/r7.jpeg" alt="Diseño">
+</p>
