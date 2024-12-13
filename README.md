@@ -5,7 +5,7 @@
 <h1 align="center"> Universidad Tecnológica de Xicotepec de Juárez </h1>
 <h1 align="center"> Ingeniería en Desarrollo y Gestión de Software </h1>
 <h1 align="center"> DMI_INTEGRADORA_DEWEB </h1>
-<h2 align="center"> Decimo Cuatrimestre Grupo B </h2>
+<h2 align="center"> 10 Cuatrimestre Grupo B </h2>
 <br>
 
 
