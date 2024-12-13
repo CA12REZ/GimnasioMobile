@@ -108,6 +108,7 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
 8. Se debe proporcionar una documentación completa de la aplicación.
 9. La documentación debe incluir información sobre el uso de la aplicación móvil.
 10. La documentación debe incluir un organigrama de trabajo.
+11. Las validaciones se deberán manejar preferentemente en el Front (App Móvil)
 
 ## Reglas de Negocio 
 1. Los entrenadores deben comunicarse claramente con los clientes y estar disponibles para discutir su progreso y cualquier inquietud que puedan tener.
