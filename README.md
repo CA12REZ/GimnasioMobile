@@ -27,7 +27,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/logo_sitio.png" width="400" height="400">|<img src="logo_empresa.png" width="400" height="400">|
+<img src="/Img/logo_sitio.png" width="400" height="400">|<img src="/Img/logo_empresa.png" width="400" height="400">|
   
 </div>
 
