@@ -141,7 +141,7 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
 
 ### Wireframes
 <p align="center">
-  <img src="/Img/wireframe.jpeg?raw=true" alt="Diseño">
+  <img src="/Img/wireframes.jpeg?raw=true" alt="Diseño">
   
 </p>
 
