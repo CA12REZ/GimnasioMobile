@@ -164,3 +164,6 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
   <img src="/Img/r6.jpeg" alt="Diseño">
   <img src="/Img/r7.jpeg" alt="Diseño">
 </p>
+
+### Resultados URL apk
+https://drive.google.com/drive/folders/1bouKGTcLV58ZMx9E-NBBNuzDPtgbRilO?usp=sharing
