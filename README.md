@@ -134,9 +134,9 @@ Desarrollar un módulo de entrenamiento dentro de una aplicación móvil para el
   ### Sketches
 
 <p align="center">
-  <img src="Img/SK1.png?raw=true" alt="Diseño">
-  <img src="Img/SK2.png?raw=true" alt="Diseño">
-  <img src="Img/SK3.png?raw=true" alt="Diseño">
+  <img src="/Img/sk1.png?raw=true" alt="Diseño">
+  <img src="/Img/sk2.png?raw=true" alt="Diseño">
+  <img src="/Img/sk3.png?raw=true" alt="Diseño">
 </p>
 
 ### Wireframes
