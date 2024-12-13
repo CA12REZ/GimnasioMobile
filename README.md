@@ -4,7 +4,7 @@
 
 <h1 align="center"> Universidad Tecnológica de Xicotepec de Juárez </h1>
 <h1 align="center"> Ingeniería en Desarrollo y Gestión de Software </h1>
-<h1 align="center"> DMI_INTEGRADORA </h1>
+<h1 align="center"> DMI_INTEGRADORA_DEWEB </h1>
 <h2 align="center"> Decimo Cuatrimestre Grupo B </h2>
 <br>
 
@@ -27,7 +27,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/LOGO SITIO.png" width="400" height="400">|<img src="Img/LOGO DEBWEB.png" width="400" height="400">|
+<img src="Img/logo_sitio.png" width="400" height="400">|<img src="logo_empresa.png" width="400" height="400">|
   
 </div>
 
@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
+  <img src="Img/organigrama.png?raw=true" alt="Organigrama de equipo">
 </p>
 
 ## Integrantes 
@@ -48,12 +48,12 @@
 
 <div align="center">
 
-| Nombre Completo              | Cargo                   | Empresa    |
+| Nombre y Apellido            | Cargo                   | Departamento u Organización    |
 |------------------------------|-------------------------|------------|
-|       | Lider/DB Manager        | DeWeb      |           
-| | Documentador            | DeWeb      |            
-|           | Desarrollador Backend   | DeWeb      |                      
-|         | Desarrollador Frontend  | DeWeb      |
+|Jorge Cazarez Cruz            | Lider/DB Manager        | DeWeb      |           
+|Hugo Sanchez Gonzalez         | Documentador            | DeWeb      |            
+|Suri Jazmin Peña Lira         | Desarrollador Backend   | DeWeb      |                      
+|Sebastian Marquez Garcia      | Desarrollador Frontend  | DeWeb      |
 
 <br>
 
